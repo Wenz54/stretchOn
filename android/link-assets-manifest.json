@@ -1,0 +1,173 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/benzin-bold.otf",
+      "sha1": "29fdfeafbcd082a41cd120bbae32b8e1e3f2026f"
+    },
+    {
+      "path": "assets/fonts/Gilroy-ExtraBold.otf",
+      "sha1": "ebd136c81542a067830d5852b785d069403c4a15"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-Black.otf",
+      "sha1": "63bff54eeb90e47408e27d5bb89199c7d187f43d"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-BlackItalic.otf",
+      "sha1": "0de83203799afa70ae34ef9e2a223144147e8ad8"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-Bold.otf",
+      "sha1": "100e7b7fd24facbca4db38e6d4d7e01c73b82818"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-BoldItalic.otf",
+      "sha1": "3fcd162737c2babf378d482e17c37f2b49f56e89"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-Heavy.otf",
+      "sha1": "8580b5917b1bc793a3faf45e3c91d24d854de759"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-HeavyItalic.otf",
+      "sha1": "094c4f5f6f14d5964efe8ece373ac918674bd498"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-Light.otf",
+      "sha1": "aa936885d8f98b893d3723c72e4278f08eda8b9e"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-LightItalic.otf",
+      "sha1": "1bf212b6006b021ceb13f6bdcf37d2be05960678"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-Medium.otf",
+      "sha1": "a5f5e08dd38cac2f857fb7510f7e92a2399b6f5c"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-MediumItalic.otf",
+      "sha1": "c758699303a4b0881b818655db728c5c3a7486b9"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-Regular.otf",
+      "sha1": "e19df199e78d296e5b6491d4832a76756532ed43"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-RegularItalic.otf",
+      "sha1": "b8e51e967b28d288cc31b9a9c56ba1826d897d00"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-Semibold.otf",
+      "sha1": "1919ecaa21bd612d41f8eeef6ccec2f28ad029f6"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-SemiboldItalic.otf",
+      "sha1": "014f13cdf8b948617605822648fe3f9cc6c648e4"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-Thin.otf",
+      "sha1": "dd4aa365895558a205e3b2123240b4281be1c2b8"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-ThinItalic.otf",
+      "sha1": "a54767f9c4b220caf9d0ca246bb29e484ad98dce"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-Ultralight.otf",
+      "sha1": "5b0f8d12d5b606e15df69259153d3536cb36ad27"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Display-UltralightItalic.otf",
+      "sha1": "e3e3f7af872a6a0fa2d00d5099a7bf0bd4a46473"
+    },
+    {
+      "path": "assets/fonts/StretchPro.otf",
+      "sha1": "f1bf659354f0c566fe6aaa72a8efa3cbec6b0f74"
+    },
+    {
+      "path": "assets/fonts/StretchProRegular.otf",
+      "sha1": "f1bf659354f0c566fe6aaa72a8efa3cbec6b0f74"
+    },
+    {
+      "path": "src/images/back.png",
+      "sha1": "e394303982c0b4a6e94f01770b7e1a8a04a95a4b"
+    },
+    {
+      "path": "src/images/diagram.png",
+      "sha1": "849e6d873e317021ad9def56821a03b2d694158f"
+    },
+    {
+      "path": "src/images/hanna.png",
+      "sha1": "3cdd2512784035e34e0e848694e6ecf5b7aead40"
+    },
+    {
+      "path": "src/images/home.png",
+      "sha1": "edd5efa7b354eaed1a64b1d829266feafa83b4db"
+    },
+    {
+      "path": "src/images/insta.png",
+      "sha1": "14fddce0f87842c99ec7ef3ad58f5473b1d72e01"
+    },
+    {
+      "path": "src/images/lock_simple.png",
+      "sha1": "55380fe448a3072747c26030f7f0804bcdcd282a"
+    },
+    {
+      "path": "src/images/lotus.png",
+      "sha1": "7744be1528520044de7616ed89a31746336e4c65"
+    },
+    {
+      "path": "src/images/mail.png",
+      "sha1": "ac80d48b34df275aa453732bd949f5f19469e5e9"
+    },
+    {
+      "path": "src/images/meditaation_background.png",
+      "sha1": "f05415346dd26067004c7081c88a1803fcc88db5"
+    },
+    {
+      "path": "src/images/music.png",
+      "sha1": "9865ed5a114a0b7f72b36aef19105232e51a71dd"
+    },
+    {
+      "path": "src/images/ok_hand.png",
+      "sha1": "716768190fccd46809aaecea0fbc2248d648ea57"
+    },
+    {
+      "path": "src/images/payimg.png",
+      "sha1": "33f8883e20299446840d7a5dd8e71117f7b87a05"
+    },
+    {
+      "path": "src/images/send.png",
+      "sha1": "d5c073a74eb9af9cabf702aeada4b20890e21d13"
+    },
+    {
+      "path": "src/images/splash.png",
+      "sha1": "3340229d5b460ffa742e4d02303986aa8be06215"
+    },
+    {
+      "path": "src/images/sport.png",
+      "sha1": "a66b36221d850088978356df46073d08096027d2"
+    },
+    {
+      "path": "src/images/tennis.png",
+      "sha1": "012aa1bf49635713a0ec9ee9e733a3874111a3c9"
+    },
+    {
+      "path": "src/images/travel.png",
+      "sha1": "f121b770ef3ba0881a14d93bf44bae5775e6ffab"
+    },
+    {
+      "path": "src/images/tv.png",
+      "sha1": "99ff6835cf5e2b062c78825cabaf4206b3e9d13d"
+    },
+    {
+      "path": "src/images/twitter.png",
+      "sha1": "aac2bd860e2927a582be53ed10285eb0feab15a2"
+    },
+    {
+      "path": "src/images/user.png",
+      "sha1": "95a17d55fcd85dc7c73ecc06851a6508620e7c97"
+    }
+  ]
+}
