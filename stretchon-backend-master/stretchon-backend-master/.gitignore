@@ -1,0 +1,108 @@
+# Laravel
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/bootstrap/cache
+.env
+.env.backup
+.env.production.local
+.env.*.local
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Composer
+composer.lock
+vendor/
+
+# NPM
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Cache
+.cache/
+.eslintcache
+
+# Build
+build/
+dist/
+out/
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.production
+
+# Sensitive files
+*.pem
+*.key
+*.keystore
+*.jks
+*.p8
+*.p12
+*.mobileprovision
+
+# API Keys and Secrets
+config/stripe.php
+config/services.php
+
+# Database
+*.sqlite
+*.sqlite3
+database.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# PHP
+.php_cs.cache
+.php-cs-fixer.cache
+
+# Testing
+.phpunit.xml
+.phpunit.result.cache
+coverage/
+.coverage
+
+# Misc
+.env.example.local
+.editorconfig.local
